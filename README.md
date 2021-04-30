@@ -1,6 +1,6 @@
 ### Hi, I'm Daniel 👋
 
-## I'm an Aspiring Front-End Developer, Trying to Learn, Hoping for a Career.
+## An Aspiring Front-End Developer, Trying to Learn, Hoping for a Career.
 
 - 👨‍💻 I'm excited to build new projects.
 - 🛠️ I’m currently working on Responsive Websites.
@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Daniel Yerena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] (https://www.linkedin.com/in/danielyerena/)
-[<img align="left" alt="Daniel-the-Dev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] (https://www.instagram.com/daniel_the_dev/)
+[<img align="left" alt="Daniel Yerena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/danielyerena/)
+[<img align="left" alt="Daniel-the-Dev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/daniel_the_dev/)
 
 <br />
 
